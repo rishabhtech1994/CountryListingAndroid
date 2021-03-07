@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountryListApplication</string>
+    <string name="checkNetwork">Please check the network connection</string>
+    <string name="country_list_app">Country List App</string>
+</resources>
